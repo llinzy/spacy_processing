@@ -1,4 +1,4 @@
-These models explores the computing limitations of processing large amounts of text using Space.
+These models explores the computing limitations of processing large amounts of text using Spacy.
 
 GPU required to duplicate results, but can run code without a gpu
 
