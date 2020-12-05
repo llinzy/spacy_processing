@@ -2,7 +2,7 @@ These models explores the computing limitations of processing large amounts of t
 
 GPU required to duplicate results, but can run code without a gpu
 
-# spacy_processing
+# spacy_processing 
 success_on_all_56000rows_but_slow.ipynb:
 This Spacy run is successful, but slow.  It takes 28 minutes to process all 56,000 rows.
 
